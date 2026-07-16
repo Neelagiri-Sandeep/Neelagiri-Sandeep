@@ -173,18 +173,6 @@
 
 ---
 
-# 😂 Random Dev Meme
-
-<p align="center">
-<img src="https://random-memer.herokuapp.com/" width="450"/>
-</p>
-
----
-
-# 💡 Quote I Believe In
-
-> **"Success doesn't come from what you do occasionally, it comes from what you do consistently."**
-
 ---
 
 <p align="center">
