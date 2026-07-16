@@ -141,11 +141,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Neelagiri-Sandeep&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
-</p>
 
 ---
 
@@ -157,11 +153,7 @@
 
 ---
 
-# 🔝 Top Contributed Repository
 
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Neelagiri-Sandeep&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
 
 ---
 
