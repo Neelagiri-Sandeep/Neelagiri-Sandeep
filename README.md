@@ -131,21 +131,11 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neelagiri-Sandeep&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelagiri-Sandeep&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Neelagiri-Sandeep&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-
-
----
-
-
 
 ---
 
@@ -167,7 +157,15 @@
 <img src="https://komarev.com/ghpvc/?username=Neelagiri-Sandeep&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">
+✨ Thanks for visiting my GitHub Profile! ✨
+</h3>
 
 <p align="center">
-If you like my work, don't forget to ⭐ my repositories and
+If you like my work, consider giving a ⭐ to my repositories.<br>
+Let's connect, collaborate, and build something amazing together! 🚀
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer"/>
+</p>
