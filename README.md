@@ -116,20 +116,6 @@
 ## 🌟 Others
 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white)
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Neelagiri-Sandeep&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-
 
 ---
 
